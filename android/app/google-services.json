@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "532412778456",
+    "project_id": "golf-score-78lztp",
+    "storage_bucket": "golf-score-78lztp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532412778456:android:c4b8299eb19aead48ad4ad",
+        "android_client_info": {
+          "package_name": "com.mycompany.golfscore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkxp8tGC5kk6Cxhh-xCauBOXL21OXivtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
