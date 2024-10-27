@@ -194,7 +194,7 @@ class _UserDetailCustomScoreWidgetState
                                   color: const Color(0xFF57636C),
                                   fontSize: 14.0,
                                   letterSpacing: 0.0,
-                                  fontWeight: FontWeight.w500,
+                                  fontWeight: FontWeight.w600,
                                 ),
                           ),
                         ),
